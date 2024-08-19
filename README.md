@@ -8,9 +8,11 @@ https://discord.gg/GSnKwyjyU8
 
 # Dependencies (required)	
 
-PandaSpigot [repo](https://github.com/hpfxd/PandaSpigot)
+PandaSpigot [Repository](https://github.com/hpfxd/PandaSpigot)
 
 Spigot 1.8.9
+
+BuildTools [Installation](https://www.spigotmc.org/wiki/buildtools/)
 
 # Development Env Setup
 
